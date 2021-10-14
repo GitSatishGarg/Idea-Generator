@@ -29,7 +29,7 @@ while(0==0):
     ]
 
     setting = [
-        "simple neibhourhood"
+        "a simple neibhourhood"
         "a planet other than Earth",
         "the Moon",
         "space",
